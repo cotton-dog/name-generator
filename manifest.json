@@ -1,0 +1,21 @@
+{
+  "name": "名字生成器",
+  "short_name": "名字生成器",
+  "description": "名字生成器",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2efe8",
+  "theme_color": "#f2efe8",
+  "icons": [
+    {
+      "src": "https://i.imgs.ovh/2026/05/14/055dc15369bd404b2cbaf2cbca15a9d6.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.imgs.ovh/2026/05/14/17f337b2ab7e2375fd47e38073d27d42.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
